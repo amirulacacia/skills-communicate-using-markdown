@@ -1,3 +1,4 @@
+# Below is the header
 # This is Header 1
 hello
 ## This is Header 2
@@ -10,3 +11,6 @@ hello
 hello
 ###### This is Header 6
 hello
+
+# Below is the image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
