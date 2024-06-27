@@ -29,3 +29,9 @@ Below is code block of git
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+# Below is the Markdown
+- [x] Learn adding Heading
+- [x] Learn adding Image
+- [x] Learn adding Code Block
+- [x] Learn Markdown
+- [ ] Learn
